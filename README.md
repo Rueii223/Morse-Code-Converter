@@ -1,8 +1,8 @@
 # Morse-Code-Converter
 「一個基於 Java 實作的摩斯密碼轉換工具，支援英文字母與數字的雙向編碼與解碼。」
-"A Java-based Morse Code converter supporting bidirectional encoding and decoding for alphanumeric characters."
-
 這是一個簡單的 Java 工具類，用於實現英文字母、數字與摩斯密碼（Morse Code）之間的雙向轉換。
+
+A Java-based Morse Code converter supporting bidirectional encoding and decoding for alphanumeric characters.
 
 ## 功能特色
 字母轉碼：支持 A-Z 與 0-9 的摩斯密碼轉換。
